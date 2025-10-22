@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 20px;
+}
+.header {
+background-color: coral;
+}
+
+.main {
+background-color:palevioletred;
+}
+
+.footer {
+background-color: gainsboro;
+}
